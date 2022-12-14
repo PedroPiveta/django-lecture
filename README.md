@@ -2,23 +2,22 @@
 
 ## Hello app
 
-<img src="screenshots/hello.png">
+![Hello app](screenshots/hello.png "Hello app")
 
 ## App that checks if it is my birthday
 
-<img src="screenshots/birthday.png">
+![Checks if it is my birthday](screenshots/birthday.png "Birthday")
 
 ## To do list
 
 ### Before adding  new task
 
-<img src="screenshots/list1.png">
+![Task app](screenshots/list1.png "Task app")
 
 ### Adding screen
 
-<img src="screenshots/add.png">
+![Task app](screenshots/add.png "Task app")
 
 ### After adding a new task
 
-<img src="screenshots/list2.png">
-
+![Task app](screenshots/list2.png "Task app")
