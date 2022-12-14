@@ -4,7 +4,7 @@
 
 <img src="screenshots/hello.png">
 
-## App that checks if it is my birthday:
+## App that checks if it is my birthday
 
 <img src="screenshots/birthday.png">
 
